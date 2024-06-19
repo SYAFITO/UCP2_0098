@@ -72,3 +72,4 @@ int main() {
     karyawan* varKaryawan2 = new karyawan("Andi");
     proyek* varProyek1 = new proyek("")
 }
+
